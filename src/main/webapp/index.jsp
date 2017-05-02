@@ -8,6 +8,9 @@
 <title>Insult Generator</title>
 </head>
 <body>
+
+Hello, OpenShift builds.
+
 <%
 out.println(new InsultGenerator().generateInsult());
 %>
